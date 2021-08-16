@@ -1,6 +1,6 @@
 # Gerador de cores
 
-## Eii dev ja teve problemas em escolher cores para seu projeto ?? nao tem certeza de que cor usar e so queria uma forma "facil" de experimentar diferentes cores ?? Seus problemas acabaram, chegou o seu Gerador de cores, qualidade garantida de seus "varios" usuarios hahaha brincadeiras a parte, aprendi bastante com esse App, sintam-se a vontade para usar!
+## Eii dev já teve problemas em escolher cores para seu projeto ?? não tem certeza de que cor usar e só queria uma forma "fácil" de experimentar diferentes cores ?? Seus problemas acabaram, chegou o seu Gerador de cores, qualidade garantida de seus "vários" usuários hahaha brincadeiras a parte, aprendi bastante com esse App, sintam-se à vontade para usar!
 
 <p>Este App foi desenvolvido com React</p>
 <p>Ultilizei tecnologias como ES6, Hooks, styled components</p>
