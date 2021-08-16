@@ -2,6 +2,8 @@
 
 ## Eii dev já teve problemas em escolher cores para seu projeto ?? não tem certeza de que cor usar e só queria uma forma "fácil" de experimentar diferentes cores ?? Seus problemas acabaram, chegou o seu Gerador de cores, qualidade garantida de seus "vários" usuários hahaha brincadeiras a parte, aprendi bastante com esse App, sintam-se à vontade para usar!
 
+Modo de usar: Digite um código hexadecimal na caixa de texto,  clique no botão "procurar" e veja a mágica acontecer. Importante, só serão aceitas entradas em código hexadecimal.
+
 <p>Este App foi desenvolvido com React</p>
 <p>Ultilizei tecnologias como ES6, Hooks, styled components</p>
 <p>Lib para obter as cores: https://github.com/noeldelgado/values.js/blob/master/README.md </p>
